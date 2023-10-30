@@ -1,4 +1,4 @@
-# Kaholas Assignment
+# Call Log UI
 ### Description
 This is just a UI screen. on pressing the buttons pop
 ***Note*** The details functionality has not `been entered yet, it will be done according to the needs.
